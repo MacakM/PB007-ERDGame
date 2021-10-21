@@ -1,4 +1,4 @@
-﻿using DAL.Enums;
+﻿using DataAccessLayer.Enums;
 
 namespace DAL.Entities
 {
